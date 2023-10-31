@@ -1,6 +1,4 @@
 
-## 💻 Projeto
-
-Desafio Ignite
+## 💻 Desafio Ignite
 
   
